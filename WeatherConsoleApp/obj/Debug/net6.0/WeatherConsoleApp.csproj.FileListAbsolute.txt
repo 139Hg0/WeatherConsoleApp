@@ -1,0 +1,17 @@
+C:\Users\ilya1\source\repos\WeatherConsoleApp\WeatherConsoleApp\obj\Debug\net6.0\WeatherConsoleApp.csproj.AssemblyReference.cache
+C:\Users\ilya1\source\repos\WeatherConsoleApp\WeatherConsoleApp\obj\Debug\net6.0\WeatherConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilya1\source\repos\WeatherConsoleApp\WeatherConsoleApp\obj\Debug\net6.0\WeatherConsoleApp.AssemblyInfoInputs.cache
+C:\Users\ilya1\source\repos\WeatherConsoleApp\WeatherConsoleApp\obj\Debug\net6.0\WeatherConsoleApp.AssemblyInfo.cs
+C:\Users\ilya1\source\repos\WeatherConsoleApp\WeatherConsoleApp\obj\Debug\net6.0\WeatherConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\ilya1\source\repos\WeatherConsoleApp\WeatherConsoleApp\bin\Debug\net6.0\WeatherConsoleApp.exe
+C:\Users\ilya1\source\repos\WeatherConsoleApp\WeatherConsoleApp\bin\Debug\net6.0\WeatherConsoleApp.deps.json
+C:\Users\ilya1\source\repos\WeatherConsoleApp\WeatherConsoleApp\bin\Debug\net6.0\WeatherConsoleApp.runtimeconfig.json
+C:\Users\ilya1\source\repos\WeatherConsoleApp\WeatherConsoleApp\bin\Debug\net6.0\WeatherConsoleApp.dll
+C:\Users\ilya1\source\repos\WeatherConsoleApp\WeatherConsoleApp\bin\Debug\net6.0\WeatherConsoleApp.pdb
+C:\Users\ilya1\source\repos\WeatherConsoleApp\WeatherConsoleApp\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\ilya1\source\repos\WeatherConsoleApp\WeatherConsoleApp\obj\Debug\net6.0\WeatherConsoleApp.csproj.CopyComplete
+C:\Users\ilya1\source\repos\WeatherConsoleApp\WeatherConsoleApp\obj\Debug\net6.0\WeatherConsoleApp.dll
+C:\Users\ilya1\source\repos\WeatherConsoleApp\WeatherConsoleApp\obj\Debug\net6.0\refint\WeatherConsoleApp.dll
+C:\Users\ilya1\source\repos\WeatherConsoleApp\WeatherConsoleApp\obj\Debug\net6.0\WeatherConsoleApp.pdb
+C:\Users\ilya1\source\repos\WeatherConsoleApp\WeatherConsoleApp\obj\Debug\net6.0\WeatherConsoleApp.genruntimeconfig.cache
+C:\Users\ilya1\source\repos\WeatherConsoleApp\WeatherConsoleApp\obj\Debug\net6.0\ref\WeatherConsoleApp.dll
